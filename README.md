@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/WeakAuras/WeakAuras2.svg?branch=master)](https://travis-ci.org/WeakAuras/WeakAuras2)
-[![WeakAuras on Discord](https://img.shields.io/badge/discord-weakauras-738bd7.svg?style=flat)](https://discord.gg/wa2)
-
 # WeakAuras 2
 
 WeakAuras is a powerful and flexible framework that allows you to display highly customizable graphics on your screen to indicate buffs, debuffs, and a whole host of similar types of information. It was originally meant to be a lightweight replacement for Power Auras, but it now incorporates many features that Power Auras does not, while still remaining more efficient and easy to use.
@@ -33,13 +30,12 @@ For some examples of what WeakAuras can do, take a look at [wago.io](https://wag
 ## Problems
 
 * Please see the [wiki](https://github.com/WeakAuras/WeakAuras2/wiki) page.
-* If you've discovered something that's clearly wrong, or if you get an error, [post](https://www.wowace.com/addons/weakauras-2/create-ticket/) a [ticket](https://www.wowace.com/addons/weakauras-2/tickets/).
-* If you have a general comment or concern, feel free to comment on the main page!
-* You're a programmer yourself and want to contribute? Check out our [contributing guidelines](https://github.com/WeakAuras/WeakAuras2/blob/master/CONTRIBUTING.md) to get started!
-* Feel free to join our [Discord Community](https://discord.gg/wa2) to talk, get help and discuss everything WeakAuras!
+* If you've discovered something that's clearly wrong, or if you get an error, open an issue here on GitHub.  If you're a programmer and want to fix the issue, feel free to read the guidelines linked below and submit a PR.
+* You're a programmer yourself and want to contribute? Check out our [contributing guidelines](https://github.com/Arek75/WeakAuras2/blob/master/CONTRIBUTING.md) to get started!
+* Please don't submit problems you have with this version of WeakAuras2 to the upstream WeakAuras2 developers.  All you're likely to do is cause problems for both them and us.
 
 ## Support
 
-If you want to help out with development without providing code yourself, you can always donate to the WeakAuras project maintainers using PayPal:
+If you want to help out with development without providing code yourself, you can always donate to the WeakAuras project maintainers using PayPal (goes to the original WA2 devs):
 
 [![WeakAuras on PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FRVH7EYXFDTUN)
