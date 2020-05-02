@@ -1,4 +1,4 @@
-# WeakAuras 2
+# WeakAuras 2 - 7.3.5 version
 
 WeakAuras is a powerful and flexible framework that allows you to display highly customizable graphics on your screen to indicate buffs, debuffs, and a whole host of similar types of information. It was originally meant to be a lightweight replacement for Power Auras, but it now incorporates many features that Power Auras does not, while still remaining more efficient and easy to use.
 
@@ -16,23 +16,16 @@ Features include:
 
 To open the options window, type `/wa` or `/weakauras` into your chat and hit enter or use the LDB feed.
 
-## Extending WeakAuras 2
-
-* [WeakAuras_StopMotion](https://www.wowace.com/addons/weakauras-stop-motion): This addon adds a new region type to WeakAuras that allows for stop motion animations. Stop Motion textures contain each frame of the animation as a separate image. The addon ships with a number of animations and it supports custom textures.
-* [SharedMedia](https://www.wowace.com/addons/sharedmedia) for more bar textures.
-* [SharedMediaAdditionalFonts](https://www.wowace.com/addons/shared-media-additional-fonts) for more fonts.
-* [ColorPickerPlus](https://mods.curse.com/addons/wow/colorpickerplus) for a better version of the WoW color picker that includes class color templates and a copy and paste function.
-
-For in-depth documentation, see the [wiki](https://github.com/WeakAuras/WeakAuras2/wiki) page.
-
-For some examples of what WeakAuras can do, take a look at [wago.io](https://wago.io/) where tons of people upload their creations and even feature complete interfaces utilizing WeakAuras!
-
 ## Problems
 
-* Please see the [wiki](https://github.com/WeakAuras/WeakAuras2/wiki) page.
+* Please see the [WeakAuras2 wiki](https://github.com/WeakAuras/WeakAuras2/wiki) page.
 * If you've discovered something that's clearly wrong, or if you get an error, open an issue here on GitHub.  If you're a programmer and want to fix the issue, feel free to read the guidelines linked below and submit a PR.
-* You're a programmer yourself and want to contribute? Check out our [contributing guidelines](https://github.com/Arek75/WeakAuras2/blob/master/CONTRIBUTING.md) to get started!
+* You're a programmer yourself and want to contribute? Check out our [contributing guidelines](https://github.com/Arek75/WeakAuras2-freakz/blob/master/CONTRIBUTING.md) to get started!
 * Please don't submit problems you have with this version of WeakAuras2 to the upstream WeakAuras2 developers.  All you're likely to do is cause problems for both them and us.
+
+## Credits
+* Credits to the original WeakAuras2 authors for making this wonderful addon.  The latest version of this addon is [here](https://github.com/WeakAuras/WeakAuras2). Again, please don't pester them with problems with this version of WeakAuras - open an issue on this Github instead.
+* Credits to WoW-Freakz forum user Artenuvielle for patching this version of WA2 to work with the new wago.io compression algorithm.
 
 ## Support
 
