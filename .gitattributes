@@ -1,2 +1,5 @@
-* text=auto
+* text=crlf
+*.lua text
+*.xml text
+*.toc text
 *.sh eol=lf
