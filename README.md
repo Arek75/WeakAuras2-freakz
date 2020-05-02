@@ -36,6 +36,6 @@ For some examples of what WeakAuras can do, take a look at [wago.io](https://wag
 
 ## Support
 
-If you want to help out with development without providing code yourself, you can always donate to the WeakAuras project maintainers using PayPal:
+If you want to help out with development without providing code yourself, you can always donate to the WeakAuras project maintainers using PayPal (goes to the original WA2 devs):
 
 [![WeakAuras on PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FRVH7EYXFDTUN)
