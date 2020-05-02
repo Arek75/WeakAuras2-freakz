@@ -2,11 +2,11 @@ WeakAuras = {}
 WeakAuras.L = {}
 
 local versionString = GetAddOnMetadata("WeakAuras", "Version");
---@debug@
-if versionString == "@project-version@" then
+--[===[@debug@
+if versionString == "2.5.12-15-g9466c19" then
   versionString = "Dev"
 end
---@end-debug@
+--@end-debug@]===]
 WeakAuras.versionString = versionString
 WeakAuras.printPrefix = "|cff9900FF".."WeakAuras: "..FONT_COLOR_CODE_CLOSE
 
