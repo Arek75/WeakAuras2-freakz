@@ -59,11 +59,12 @@ If you want to help, here's what you need to do:
 
 ## Reporting Issues and Requesting Features
 
-1. Please search our [WowAce](https://www.wowace.com/projects/weakauras-2/issues) and [GitHub](https://github.com/WeakAuras/WeakAuras2/issues) issue trackers for your problem since there's a good
+1. Please search the upstream [WowAce](https://www.wowace.com/projects/weakauras-2/issues) and [GitHub](https://github.com/WeakAuras/WeakAuras2/issues) issue trackers, along with our own [issue tracker](https://github.com/Arek75/WeakAuras2-freakz/issues) for your problem since there's a good
    chance that someone has already reported it.
 1. If you find a match, please try to provide as much info as you can,
    so that we have a better picture about what the real problem is and how to fix it ASAP.
 1. If you didn't find any tickets with a problem similar to yours then please open a
-   [new ticket](https://trac.mpc-hc.org/ticket/newticket).
+   [new issue](https://github.com/Arek75/WeakAuras2-freakz/issues).
     * Be descriptive as much as you can.
     * Provide everything the template text asks you for.
+1. Do not report any issues you find with this version of WeakAuras2 upstream, report them here.
